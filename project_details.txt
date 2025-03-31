@@ -1,7 +1,5 @@
-
 v1.0.0
 adding features...
 fixing bugs
 v2.0.0
 preparing for new features
-
